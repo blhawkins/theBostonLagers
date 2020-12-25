@@ -40,7 +40,9 @@ Components of the data_analysis.ipynb file include:
 ![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/price_as_destination.png 'Bar Chart of Average Ride Price of Rides Finishing at Each Destination')
 ![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/distance_as_destination.png 'Bar Chart of Average Ride Distance of Rides Finishing at Each Destination')  
 3. Use of Pandas and Matplotlib to create figures comparing the operations of Uber and Lyft in Boston, MA.  
-
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/Uber_Distance_vs_Fare.png 'Full Scatterplot of the Distance and Price of Each Uber Trip') 
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/Lyft_Distance_vs_Fare.png 'Full Scatterplot of the Distance and Price of Each Lyft Trip') 
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/uber_lyft_average_fare.png 'Pie Chart Comparing the Average Fare of Uber and Lyft Rides')  
 4. Incoportation of DatetimePy functionality to determine how Uber and Lyft demand is affected by the day of the week.  
-
-5. All resulting figures were saved to the Figures folder.
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/Uber_Data_By_Day.png 'Bar Chart of Uber Distance and Price by Day of the Week') 
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/Lyft_Data_By_Day.png 'Line Chart of Lyft Distance and Price by Day of the Week') 
