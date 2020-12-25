@@ -1,24 +1,22 @@
 # theBostonLagers
-University of Kansas Bootcamp Project 1: Analysis of Ride-Sharing Data in Boston, MA
-## Contents:
-    
+### Analysis of Ride-Sharing Data in Boston, MA 🚕 🚷
+
+
+## Main Contents:
     Data Cleaning.ipynb
     Data Analysis.ipynb
     Project Proposal.docx
     Project Conclusions.docx
     Project Presentation.pptx
-    Figures
-    Resources
 
-## Tools Used
-
+## Tools Used:
     Jupyter Notebook
     Pandas
     Matplotlib
     SciPy Linear Regression
     DatetimePy Library
 
-## Description
+# Description
 A. Data Cleaning.ipynb
     
 1. Importation of a ride-sharing data set published by Kaggle user RaviMunde.
