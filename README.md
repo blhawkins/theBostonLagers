@@ -30,8 +30,10 @@ Components of the data_cleaning.ipynb file include:
 Components of the data_analysis.ipynb file include:
 1. Importation of cleaned data file ([cleaned_Kaggle_data.csv](https://github.com/blhawkins/theBostonLagers/blob/master/Resources/cleaned_Kaggle_data.csv)) created in the Data Cleaning.ipynb procedure.
 2. Use of Pandas GroupBy, Matplotlib, and SciPy Linear Regression functionality to determine how ride distance and ride price compare accross the various ride sources and destinations.
-##### Number of Rides Originating from Each Source
-![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/count_as_source.png 'Number of Rides Originating from Each Source')
+##### Comparison Accross Ride Sources
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/count_as_source.png 'Bar Chart of Number of Rides Originating from Each Source')
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/price_as_source.png 'Bar Chart of Average Ride Price of Rides Originating from Each Source')
+![alt text](https://github.com/blhawkins/theBostonLagers/blob/master/Figures/distance_as_source.png 'Bar Chart of Average Ride Distance of Rides Originating from Each Source')
 3. Use of Pandas and Matplotlib to create figures comparing the operations of Uber and Lyft in Boston, MA.  
 
 4. Incoportation of DatetimePy functionality to determine how Uber and Lyft demand is affected by the day of the week.  
