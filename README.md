@@ -17,6 +17,9 @@
     DatetimePy Library
 
 # Description
+
+This project leverages Python's Pandas, Matplotlib, and SciPy libraries to analyze and draw conslusions from Uber and Lyft data collected in Boston, MA between November and December 2018. The original dataset was published by the Kaggle user RaviMunde, and can be found [here](https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices). The process of importing and cleaning the dataset can be found in the [Data Cleaning.ipynb](https://github.com/blhawkins/theBostonLagers/blob/master/Data%20Cleaning.ipynb) file, while the process of analyzing and visualizing the dataset can be found in the [Data Analysis.ipynb](https://github.com/blhawkins/theBostonLagers/blob/master/Data%20Analysis.ipynb) file. A full analysis can be seen by viewing and downloading the [Project Conclusions.docx](https://github.com/blhawkins/theBostonLagers/blob/master/Project%20Conclusions.docx) file.
+
 A. Data Cleaning.ipynb
     
 1. Importation of a ride-sharing data set published by Kaggle user RaviMunde.
