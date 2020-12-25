@@ -5,9 +5,7 @@
 ## Main Contents:
     Data Cleaning.ipynb
     Data Analysis.ipynb
-    Project Proposal.docx
     Project Conclusions.docx
-    Project Presentation.pptx
 
 ## Tools Used:
     Jupyter Notebook
